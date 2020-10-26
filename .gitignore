@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Canvas submissions and default files/folders
+submissions/
+downloads/
+submission_urls.csv
+submissions.zip
